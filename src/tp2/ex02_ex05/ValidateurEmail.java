@@ -1,4 +1,4 @@
-package ex02;
+package ex02_ex05;
 
 public class ValidateurEmail {
     public boolean estValide(String email) {
